@@ -4,6 +4,10 @@ AI Engineer focused on Real-Time Voice AI Systems, RAG Pipelines, and Conversati
 
 ---
 
+<p align="center">
+  <img src="https://github.com/Durga-7780/Durga-7780/blob/main/banner.png" />
+</p>
+
 ## 🚀 What I Build
 
 - AI Voicebots
